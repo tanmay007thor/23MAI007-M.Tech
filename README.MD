@@ -77,9 +77,9 @@ cd GCN
 
 ## 👨‍💻 Author
 
-**Tanmay Thorat**  
+**Tanmay Rathod**  
 M.Tech Artificial Intelligence  
 Roll No: 23MAI007
 ```
 
-Let me know if you want this saved to a file or need a PDF/LaTeX version too.
+
