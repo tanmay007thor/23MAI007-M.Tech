@@ -1,4 +1,4 @@
-Here is a complete `README.md` that summarizes all your M.Tech work objectives, GitHub repositories, and dataset:
+
 
 ---
 
